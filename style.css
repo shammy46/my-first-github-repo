@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+header{
+    background-image: url(images/header.jpg);
+    height: 500px;
+    text-align: justify;
+    
+}
+.about_us {
+    padding: 20px;
+   
+
+}
+ h1{
+    text-align: center;
+    color: rgb(9, 9, 9);
+    padding: 100px;
+ }
+ button {
+    text-align: center;
+    display: flex;
+    margin: auto;
+ }
